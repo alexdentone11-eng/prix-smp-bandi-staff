@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Bandi Staff – Prix SMP</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body style="
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0f172a;
+  color:white;
+  text-align:center;
+">
+
+  <div style="padding:20px">
+    <h1>🏆 Bandi Staff – Prix SMP</h1>
+    <p>Vuoi entrare nello staff ufficiale di <b>Prix SMP</b>?</p>
+
+    <h2>Ruoli aperti</h2>
+    <p>🟢 Helper &nbsp; 🔵 Moderatore &nbsp; 🔴 Admin</p>
+
+    <hr style="margin:30px 0; border-color:#334155">
+
+    <h2>📋 Compila il modulo</h2>
+  </div>
+
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdlwwRhV3MUxKO3BWv6yqN6hKlH06x23h1lQAbzHbJk0bVaig/viewform?embedded=true"
+    width="100%"
+    height="1200"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0">
+    Caricamento…
+  </iframe>
+
+</body>
+</html>
